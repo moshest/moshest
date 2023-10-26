@@ -1,7 +1,10 @@
 Hi 👋 My name is Moshe Simantov
 ===============================
 
-An Entrepreneur, Software Architect, and Full-Stack Developer. Basically, I'm good at getting things done. I started programming computer games at age 11. At age 21, I found faith in science, became agnostic, and graduated with a bachelor's degree from the Hebrew University of Jerusalem. I have over 20 years of experience designing and building web startups. Right now I'm working on my own start-up and earn a living by freelancing for a few clients.
+I started my career as a freelance software engineer nearly two decades ago, I quickly found my footing in the vibrant startup scene. I know how to get things done, and I'm passionate about building products that make a difference.
+
+I wore many hats - from backend to frontend development and even as a CTO - honing my technical prowess with each venture and learning how to navigate the challenges of building a successful product.
+
 
 *   🌍  I'm based in Tel-Aviv, Israel
 *   🖥️  See my portfolio at [moshe.io](http://moshe.io)
