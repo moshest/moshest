@@ -6,10 +6,9 @@ I started my career as a freelance software engineer nearly two decades ago, I q
 I wore many hats - from backend to frontend development and even as a CTO - honing my technical prowess with each venture and learning how to navigate the challenges of building a successful product.
 
 
-*   🌍  I'm based in Tel-Aviv, Israel
+*   🌍  I'm based in New York
 *   🖥️  See my portfolio at [moshe.io](http://moshe.io)
 *   ✉️  You can contact me at [me@moshe.io](mailto:me@moshe.io)
-*   🚀  I'm currently working on [Neuledge](http://neuledge.com)
 *   🤝  I'm open to collaborating on open source communities
 
 
